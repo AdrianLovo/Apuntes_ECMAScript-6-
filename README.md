@@ -15,4 +15,4 @@ Archivos base de codigo JavaScript.
 | 06 | [ES8 (Objec Entries, Object Values, Padding)](https://github.com/AdrianLovo/Apuntes_ECMAScript-6-/blob/master/06-ES8.js) |
 | 07 | [Async y Await)](https://github.com/AdrianLovo/Apuntes_ECMAScript-6-/blob/master/07-AsyncAwait.js) |
 | ES8 | 2017 |
-| 08 | [ES9 ()](https://github.com/AdrianLovo/Apuntes_ECMAScript-6-/blob/master/08-ES9.js) |
+| 08 | [ES9 (Operador de Reposo, finally, Regex)](https://github.com/AdrianLovo/Apuntes_ECMAScript-6-/blob/master/08-ES9.js) |
