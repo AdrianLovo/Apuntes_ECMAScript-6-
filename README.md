@@ -16,3 +16,6 @@ Archivos base de codigo JavaScript.
 | 07 | [Async y Await)](https://github.com/AdrianLovo/Apuntes_ECMAScript-6-/blob/master/07-AsyncAwait.js) |
 | ES8 | 2017 |
 | 08 | [ES9 (Operador de Reposo, finally, Regex)](https://github.com/AdrianLovo/Apuntes_ECMAScript-6-/blob/master/08-ES9.js) |
+| 09 | [ES10 (flat, flatMap, trimStart, trimEnd...)](https://github.com/AdrianLovo/Apuntes_ECMAScript-6-/blob/master/09-ES10.js) |
+
+
