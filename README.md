@@ -11,4 +11,5 @@ Archivos base de codigo JavaScript.
 | 04 | [Clases, Modulos y Generadores](https://github.com/AdrianLovo/Apuntes_ECMAScript-6-/blob/master/04-Clases,ModulosYGeneradores.js) |
 | ES7 | 2016 |
 | 05 | [ES7 (.include y Exponencial)](https://github.com/AdrianLovo/Apuntes_ECMAScript-6-/blob/master/05-ES7.js) |
+| ES8 | 2017 |
 | 06 | [ES8 (Objec Entries, Object Values, Padding)](https://github.com/AdrianLovo/Apuntes_ECMAScript-6-/blob/master/06-ES8.js) |
